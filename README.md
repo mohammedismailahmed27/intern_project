@@ -1,2 +1,4 @@
 "Welcome!" 
-i trying to add something here, can you see it?
+i am trying to add something here, can you see it?
+
+FINAL CHECK!
